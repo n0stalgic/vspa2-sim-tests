@@ -1,0 +1,3 @@
+[submodule "vendor/LimeSDR-Micro_VSPA"]
+	path = vendor/LimeSDR-Micro_VSPA
+	url = https://github.com/myriadrf/LimeSDR-Micro_VSPA.git
