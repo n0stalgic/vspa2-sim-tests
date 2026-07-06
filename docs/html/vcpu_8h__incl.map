@@ -1,0 +1,20 @@
+<map id="/home/chris/code/rf/vspa&#45;sim&#45;tests/vspa&#45;sdk/inc/vcpu.h" name="/home/chris/code/rf/vspa&#45;sim&#45;tests/vspa&#45;sdk/inc/vcpu.h">
+<area shape="rect" id="Node000001" title="Vector central processing unit definitions." alt="" coords="201,5,359,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,108,80,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,63,88,106,86,101,207,58"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="105,108,175,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,62,172,103,169,98,236,58"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="200,108,283,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="271,61,255,96,250,94,266,59"/>
+<area shape="rect" id="Node000005" href="$intrinsics_8h.html" title=" " alt="" coords="276,181,404,207"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="292,59,333,168,328,169,287,61"/>
+<area shape="rect" id="Node000007" href="$vspa_8h.html" title="Vector signal processing acceleration definitions." alt="" coords="358,108,423,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="315,58,366,97,363,102,312,62"/>
+<area shape="rect" id="Node000008" href="$iohw_8h.html" title="Hardware I/O definitions." alt="" coords="448,108,512,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="342,58,442,100,439,105,340,63"/>
+<area shape="rect" id="Node000006" href="$intrinsic__vspa2_8h.html" title=" " alt="" coords="257,255,423,280"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="343,207,343,241,337,241,337,207"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="459,136,376,177,374,173,456,131"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="447,181,513,207"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="483,134,483,168,477,168,477,134"/>
+</map>

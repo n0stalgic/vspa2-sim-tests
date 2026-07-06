@@ -1,0 +1,10 @@
+<map id="/home/chris/code/rf/vspa&#45;sim&#45;tests/vspa&#45;sdk/inc/gpio.h" name="/home/chris/code/rf/vspa&#45;sim&#45;tests/vspa&#45;sdk/inc/gpio.h">
+<area shape="rect" id="Node000001" title="General purpose I/O register definitions." alt="" coords="103,5,261,60"/>
+<area shape="rect" id="Node000002" href="$axiq-la9310_8h.html" title=" " alt="" coords="5,108,172,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,72,115,110,111,106,146,69"/>
+<area shape="rect" id="Node000003" href="$axiq-ls_8h.html" title="Low&#45;speed AXIQ driver." alt="" coords="196,108,355,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,69,253,106,249,110,214,72"/>
+<area shape="rect" id="Node000004" href="$axiq-la1224_8h.html" title="LA1224 AXI I/Q FIFO driver interface." alt="" coords="192,211,359,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="269,176,270,211,265,211,264,176"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="281,197,281,163,286,163,287,197"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="/opt/VSPA_Tools_vbeta_14_00_781/include/vspa/intrinsic_vspa2.h" name="/opt/VSPA_Tools_vbeta_14_00_781/include/vspa/intrinsic_vspa2.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="65,5,251,60"/>
+<area shape="rect" id="Node000002" href="$intrinsics_8h.html" title=" " alt="" coords="65,108,251,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,74,161,108,155,108,155,74"/>
+<area shape="rect" id="Node000003" href="$iohw_8h.html" title="Hardware I/O definitions." alt="" coords="137,211,296,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="183,173,204,209,199,212,178,176"/>
+<area shape="rect" id="Node000009" href="$vcpu_8h.html" title="Vector central processing unit definitions." alt="" coords="20,313,179,368"/>
+<area shape="poly" id="edge12_Node000002_Node000009" title=" " alt="" coords="141,176,127,211,114,266,105,314,100,313,108,265,122,210,136,174"/>
+<area shape="rect" id="Node000004" href="$ccnt_8h.html" title="Cycle counting and profiling interface." alt="" coords="188,416,347,471"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="229,278,238,313,263,415,258,417,233,314,224,279"/>
+<area shape="rect" id="Node000005" href="$dmac_8h.html" title="Direct memory access controller interface." alt="" coords="337,313,496,368"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="282,269,366,311,363,316,280,274"/>
+<area shape="rect" id="Node000008" href="$host_8h.html" title="Host interface definitions." alt="" coords="5,416,164,471"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="219,280,211,325,203,348,192,370,168,397,139,418,136,414,164,393,188,366,199,346,206,323,213,279"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="177,277,132,315,128,311,174,273"/>
+<area shape="rect" id="Node000006" href="$axiq-ls_8h.html" title="Low&#45;speed AXIQ driver." alt="" coords="371,416,529,471"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="432,380,444,415,439,417,427,382"/>
+<area shape="rect" id="Node000007" href="$axiq-la1224_8h.html" title="LA1224 AXI I/Q FIFO driver interface." alt="" coords="367,519,533,573"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="444,484,445,519,439,519,439,484"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="456,505,455,471,461,471,461,505"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="156,373,225,413,222,418,154,377"/>
+<area shape="poly" id="edge11_Node000009_Node000008" title=" " alt="" coords="96,382,91,416,86,416,91,381"/>
+</map>

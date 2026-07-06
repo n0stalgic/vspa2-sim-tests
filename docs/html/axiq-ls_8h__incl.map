@@ -1,0 +1,23 @@
+<map id="/home/chris/code/rf/vspa&#45;sim&#45;tests/vspa&#45;sdk/inc/axiq&#45;ls.h" name="/home/chris/code/rf/vspa&#45;sim&#45;tests/vspa&#45;sdk/inc/axiq&#45;ls.h">
+<area shape="rect" id="Node000001" title="Low&#45;speed AXIQ driver." alt="" coords="219,5,377,60"/>
+<area shape="rect" id="Node000002" href="$gpio_8h.html" title="General purpose I/O register definitions." alt="" coords="119,108,181,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,62,183,103,180,99,251,58"/>
+<area shape="rect" id="Node000003" href="$dmac_8h.html" title="Direct memory access controller interface." alt="" coords="205,108,276,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="283,62,258,98,254,95,278,59"/>
+<area shape="rect" id="Node000009" href="$axiq-la1224_8h.html" title="LA1224 AXI I/Q FIFO driver interface." alt="" coords="300,108,411,133"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="309,59,335,96,330,99,305,62"/>
+<area shape="rect" id="Node000004" href="$iohw_8h.html" title="Hardware I/O definitions." alt="" coords="109,181,173,207"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="226,136,170,175,167,171,223,131"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="177,255,243,280"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="241,134,218,242,213,241,236,133"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="248,181,319,207"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="250,132,272,168,267,171,245,135"/>
+<area shape="rect" id="Node000005" href="$intrinsics_8h.html" title=" " alt="" coords="25,255,153,280"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="134,209,107,245,103,242,130,205"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="154,205,191,243,187,247,150,209"/>
+<area shape="rect" id="Node000006" href="$intrinsic__vspa2_8h.html" title=" " alt="" coords="5,328,172,353"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="91,280,91,314,86,314,86,280"/>
+<area shape="poly" id="edge10_Node000009_Node000001" title=" " alt="" coords="352,109,329,72,334,70,356,106"/>
+<area shape="rect" id="Node000010" href="$axiq-hs_8h.html" title="High&#45;speed AXIQ driver." alt="" coords="343,181,426,207"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="363,133,377,168,372,170,358,135"/>
+</map>

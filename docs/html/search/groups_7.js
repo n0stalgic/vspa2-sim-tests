@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['interface_0',['interface',['../group__GROUP__IPPU__CTRL.html',1,'Control Interface'],['../group__GROUP__PHY__TIMER__REG.html',1,'Register Interface'],['../group__GROUP__IPPU__STAT.html',1,'Status Interface']]],
+  ['internal_20peripheral_20control_20intrinsics_1',['Internal peripheral control intrinsics',['../group__PERIPHERAL__CONTROL.html',1,'']]],
+  ['intrinsics_2',['intrinsics',['../group__EXTREMA__SEARCH.html',1,'Extrema search unit intrinsics'],['../group__PERIPHERAL__CONTROL.html',1,'Internal peripheral control intrinsics'],['../group__Miscellaneous.html',1,'intrinsics'],['../group__LOAD__STORE.html',1,'Load and store intrinsics'],['../group__LUT.html',1,'Look Up Table intrinsics'],['../group__OPERAND__GENERATOR.html',1,'Operand generator intrinsics'],['../group__SCALAR__ARITHMETIC.html',1,'Scalar arithmetic unit intrinsics'],['../group__STATE__AND__CONTROL.html',1,'State and control flow intrinsics'],['../group__VECTOR__SOURCE.html',1,'Vector arithmetic source register unit intrinsics'],['../group__VECTOR__WRITE.html',1,'Vector arithmetic write result unit intrinsics'],['../group__FLOAT__ARITHMETIC.html',1,'Vector floating point arithmetic unit intrinsics'],['../group__VRA.html',1,'Vector Register Array (VRA) intrinsics'],['../group__VECTOR__H.html',1,'Vector sign register (H) intrinsics']]]
+];

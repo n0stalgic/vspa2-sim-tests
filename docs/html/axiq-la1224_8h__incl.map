@@ -1,0 +1,23 @@
+<map id="/home/chris/code/rf/vspa&#45;sim&#45;tests/vspa&#45;sdk/inc/axiq&#45;la1224.h" name="/home/chris/code/rf/vspa&#45;sim&#45;tests/vspa&#45;sdk/inc/axiq&#45;la1224.h">
+<area shape="rect" id="Node000001" title="LA1224 AXI I/Q FIFO driver interface." alt="" coords="81,5,248,60"/>
+<area shape="rect" id="Node000002" href="$axiq-ls_8h.html" title="Low&#45;speed AXIQ driver." alt="" coords="125,108,204,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,60,159,94,154,94,154,60"/>
+<area shape="rect" id="Node000010" href="$axiq-hs_8h.html" title="High&#45;speed AXIQ driver." alt="" coords="229,108,311,133"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="199,58,247,97,243,101,195,62"/>
+<area shape="poly" id="edge10_Node000002_Node000001" title=" " alt="" coords="168,107,171,73,176,74,174,108"/>
+<area shape="rect" id="Node000003" href="$gpio_8h.html" title="General purpose I/O register definitions." alt="" coords="88,181,151,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="159,135,136,171,132,168,155,132"/>
+<area shape="rect" id="Node000004" href="$dmac_8h.html" title="Direct memory access controller interface." alt="" coords="175,181,245,207"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="174,132,198,168,193,171,170,135"/>
+<area shape="rect" id="Node000005" href="$iohw_8h.html" title="Hardware I/O definitions." alt="" coords="109,255,173,280"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="200,209,163,247,159,243,197,205"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="177,328,243,353"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="213,207,213,314,207,314,207,207"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="248,255,319,280"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="224,205,263,243,260,247,220,209"/>
+<area shape="rect" id="Node000006" href="$intrinsics_8h.html" title=" " alt="" coords="25,328,153,353"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="134,282,107,318,103,315,130,279"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="154,278,191,316,187,320,150,282"/>
+<area shape="rect" id="Node000007" href="$intrinsic__vspa2_8h.html" title=" " alt="" coords="5,401,172,427"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="91,354,91,388,86,388,86,354"/>
+</map>

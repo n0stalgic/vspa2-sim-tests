@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['naxilane16_0',['naxilane16',['../chip-la1224_8h.html#a2065e28a5b4852571d7621059aba4c75',1,'NAXILANE16:&#160;chip-la1224.h'],['../chip-la9310_8h.html#a2065e28a5b4852571d7621059aba4c75',1,'NAXILANE16:&#160;chip-la9310.h']]],
+  ['naxilane32_1',['naxilane32',['../chip-la1224_8h.html#a45cb522f4d57545734ea5abffb863a3d',1,'NAXILANE32:&#160;chip-la1224.h'],['../chip-la9310_8h.html#a45cb522f4d57545734ea5abffb863a3d',1,'NAXILANE32:&#160;chip-la9310.h']]],
+  ['naxilane8_2',['naxilane8',['../chip-la1224_8h.html#a695f0e34118fbb8533c3d692ffd98c1f',1,'NAXILANE8:&#160;chip-la1224.h'],['../chip-la9310_8h.html#a695f0e34118fbb8533c3d692ffd98c1f',1,'NAXILANE8:&#160;chip-la9310.h']]],
+  ['naxivec16_3',['naxivec16',['../chip-la1224_8h.html#ac1d8b4e235f8e7ddf3f43f4714899f19',1,'NAXIVEC16:&#160;chip-la1224.h'],['../chip-la9310_8h.html#ac1d8b4e235f8e7ddf3f43f4714899f19',1,'NAXIVEC16:&#160;chip-la9310.h']]],
+  ['naxivec32_4',['naxivec32',['../chip-la1224_8h.html#aa1bebf4d4f454d0273182a760e8f4eba',1,'NAXIVEC32:&#160;chip-la1224.h'],['../chip-la9310_8h.html#aa1bebf4d4f454d0273182a760e8f4eba',1,'NAXIVEC32:&#160;chip-la9310.h']]],
+  ['naxivec8_5',['naxivec8',['../chip-la9310_8h.html#ae7e11f3b3d3a8cd2c214fa519f024976',1,'NAXIVEC8:&#160;chip-la9310.h'],['../chip-la1224_8h.html#ae7e11f3b3d3a8cd2c214fa519f024976',1,'NAXIVEC8:&#160;chip-la1224.h']]],
+  ['ncall_6',['ncall',['../structccnt__stat__t.html#a5e55464b97e5f48ad7a14e9462311381',1,'ccnt_stat_t']]],
+  ['nested_20cycle_20count_7',['nested cycle count',['../group__GROUP__CCNT__NESTED.html',1,'Nested Cycle Count'],['../group__GROUP__CCNT__NOT__NESTED.html',1,'Non-nested Cycle Count']]],
+  ['new_5fvector_5ffixed16_8',['new_vector_fixed16',['../intrinsics_8h.html#a68b57c2bfdbdef9bc73367bd48e512b8',1,'new_vector_fixed16:&#160;intrinsics.h'],['../structnew__vector__fixed16.html',1,'new_vector_fixed16']]],
+  ['new_5fvector_5ffloat16_9',['new_vector_float16',['../intrinsics_8h.html#aa401162a6bf028c5611f94891369005f',1,'new_vector_float16:&#160;intrinsics.h'],['../structnew__vector__float16.html',1,'new_vector_float16']]],
+  ['nlane_10',['NLANE',['../group__GROUP__VSPA.html#ga92c3e3b0b0457e16b71cff28b3363b4e',1,'vspa.h']]],
+  ['nlane16_11',['NLANE16',['../group__GROUP__VSPA.html#gaf4ce3ea5270cfd336053d6eb78081724',1,'vspa.h']]],
+  ['nlane32_12',['NLANE32',['../group__GROUP__VSPA.html#gad2fbab38dfdb7937a6675fd5f9f20e49',1,'vspa.h']]],
+  ['nlane64_13',['NLANE64',['../group__GROUP__VSPA.html#ga1c6bc7c1bba2b4ad8d479b9b54fb2bc2',1,'vspa.h']]],
+  ['nlane8_14',['NLANE8',['../group__GROUP__VSPA.html#ga64a66e09bb8dda65c392679e8e0bf922',1,'vspa.h']]],
+  ['non_20nested_20cycle_20count_15',['Non-nested Cycle Count',['../group__GROUP__CCNT__NOT__NESTED.html',1,'']]],
+  ['nvec_16',['NVEC',['../group__GROUP__VSPA.html#ga21d625adceef0e397dcc515958abe72a',1,'vspa.h']]],
+  ['nvec16_17',['NVEC16',['../group__GROUP__VSPA.html#gafbfce946b6819eccfd129b3f1c0bcc35',1,'vspa.h']]],
+  ['nvec32_18',['NVEC32',['../group__GROUP__VSPA.html#gaa9ff14ed4dee02cf3a9728b90a2723df',1,'vspa.h']]],
+  ['nvec64_19',['NVEC64',['../group__GROUP__VSPA.html#ga22934c989015532dd8942bbb4eb6507e',1,'vspa.h']]],
+  ['nvec8_20',['NVEC8',['../group__GROUP__VSPA.html#gae179b953a6e9470447f5b34d090f9a90',1,'vspa.h']]],
+  ['nvecpairs32_21',['NVECPAIRS32',['../group__GROUP__VSPA.html#ga5222c035e38a67cf4bb09bb70f57c3e2',1,'vspa.h']]],
+  ['nvecquads32_22',['NVECQUADS32',['../group__GROUP__VSPA.html#gaf4615e6577f95e0801aa5ddb2e005dbd',1,'vspa.h']]]
+];

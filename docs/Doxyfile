@@ -1,0 +1,29 @@
+# SPDX-License-Identifier: BSD-3-Clause
+# Doxygen config for browsing the VSPA intrinsics + vspa-sdk headers.
+# Run from this directory: doxygen Doxyfile
+# Output: ./html/index.html
+
+PROJECT_NAME          = "VSPA API Reference"
+OUTPUT_DIRECTORY       = .
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+RECURSIVE              = YES
+EXTRACT_ALL            = YES
+OPTIMIZE_OUTPUT_FOR_C  = YES
+FILE_PATTERNS          = *.h
+QUIET                  = YES
+WARN_IF_UNDOCUMENTED   = NO
+PREDEFINED             = __VSPA2__
+
+INPUT = /opt/VSPA_Tools_vbeta_14_00_781/include/vspa/intrinsics.h \
+        /opt/VSPA_Tools_vbeta_14_00_781/include/vspa/intrinsic_vspa2.h \
+        ../vspa-sdk/inc
+
+# NXP's intrinsics headers use a custom doc-tag set instead of standard
+# Doxygen commands; map them to something Doxygen renders as real sections.
+ALIASES += "prototype=@par Prototype:^^"
+ALIASES += "description=@par Description:^^"
+ALIASES += "asm=@par Underlying assembly:^^"
+ALIASES += "support=@par Support:^^"
+ALIASES += "chapter=@par Chapter:^^"
+ALIASES += "group=@defgroup"

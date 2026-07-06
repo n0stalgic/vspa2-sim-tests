@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['_5f_5falign_5faxi_0',['__align_axi',['../chip-la9310_8h.html#a7ebc877b0bc97dc414b9d828db2bdf25',1,'__align_axi:&#160;chip-la9310.h'],['../chip-la1224_8h.html#a7ebc877b0bc97dc414b9d828db2bdf25',1,'__align_axi:&#160;chip-la1224.h']]],
+  ['_5falways_5finline_1',['_ALWAYS_INLINE',['../intrinsics_8h.html#a3e9c041e705abfbdd6e7fdb6cbe5daee',1,'intrinsics.h']]],
+  ['_5fau_5fcount_2',['_AU_COUNT',['../intrinsics_8h.html#ac57cf677f526b1506f45fc7a9788710c',1,'intrinsics.h']]],
+  ['_5fvector_5falign_3',['_VECTOR_ALIGN',['../intrinsics_8h.html#a623356a8aa6ee68d6d68341132929376',1,'intrinsics.h']]],
+  ['_5fvector_5falign_5fh_4',['_VECTOR_ALIGN_H',['../intrinsics_8h.html#ae514363276c852882a8c00328ef140a5',1,'intrinsics.h']]],
+  ['_5fvr0_5',['_VR0',['../intrinsics_8h.html#ac137f0148ad5b522ed05218fb58fa6b2',1,'intrinsics.h']]],
+  ['_5fvr1_6',['_VR1',['../intrinsics_8h.html#a004592039ef7b6da84a62fedb7203280',1,'intrinsics.h']]],
+  ['_5fvr2_7',['_VR2',['../intrinsics_8h.html#a81bd20fbfb8fc35f87c3d30c6bfb8b48',1,'intrinsics.h']]],
+  ['_5fvr3_8',['_VR3',['../intrinsics_8h.html#ac99a1bcfa357c822391d0da422d0a1d0',1,'intrinsics.h']]],
+  ['_5fvr4_9',['_VR4',['../intrinsics_8h.html#a068394971698eafda005c276c601a537',1,'intrinsics.h']]],
+  ['_5fvr5_10',['_VR5',['../intrinsics_8h.html#ad8ac1a0d5d9e53161caf739ec370ddf2',1,'intrinsics.h']]],
+  ['_5fvr6_11',['_VR6',['../intrinsics_8h.html#ac6e6d275200d9ccc3803cea5ff0e2dc0',1,'intrinsics.h']]],
+  ['_5fvr7_12',['_VR7',['../intrinsics_8h.html#a0b8ab61a813ce20420ee0f61c3e45b47',1,'intrinsics.h']]],
+  ['_5fvra_5freg_5foffset_13',['_VRA_REG_OFFSET',['../intrinsics_8h.html#a0f3dbf8367fbe4af15fe13e8a21c5d0f',1,'intrinsics.h']]],
+  ['_5fvspa_5falways_5finline_14',['_VSPA_ALWAYS_INLINE',['../intrinsics_8h.html#a4e767aba90e097a395ed8f9f005e54bf',1,'intrinsics.h']]],
+  ['_5fvspa_5fau_5fcount_15',['_VSPA_AU_COUNT',['../intrinsics_8h.html#af22a15d80be10db39d3808a0558d0891',1,'intrinsics.h']]],
+  ['_5fvspa_5fvector_5falign_16',['_VSPA_VECTOR_ALIGN',['../intrinsics_8h.html#aa50963801c36f144e4e1431017fa38ad',1,'intrinsics.h']]],
+  ['_5fvspa_5fvector_5falign_5fh_17',['_VSPA_VECTOR_ALIGN_H',['../intrinsics_8h.html#aacce9865e8dd1d5e6e3aeb7d00916909',1,'intrinsics.h']]],
+  ['_5fvspa_5fvra_5freg_5foffset_18',['_VSPA_VRA_REG_OFFSET',['../intrinsics_8h.html#a5a570135a395e7c91867d5df7f0f5618',1,'intrinsics.h']]]
+];

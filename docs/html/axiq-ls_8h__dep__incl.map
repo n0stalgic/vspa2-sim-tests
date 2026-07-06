@@ -1,0 +1,6 @@
+<map id="/home/chris/code/rf/vspa&#45;sim&#45;tests/vspa&#45;sdk/inc/axiq&#45;ls.h" name="/home/chris/code/rf/vspa&#45;sim&#45;tests/vspa&#45;sdk/inc/axiq&#45;ls.h">
+<area shape="rect" id="Node000001" title="Low&#45;speed AXIQ driver." alt="" coords="9,5,168,60"/>
+<area shape="rect" id="Node000002" href="$axiq-la1224_8h.html" title="LA1224 AXI I/Q FIFO driver interface." alt="" coords="5,108,172,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,74,83,108,78,108,77,74"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="95,95,94,60,99,60,100,94"/>
+</map>

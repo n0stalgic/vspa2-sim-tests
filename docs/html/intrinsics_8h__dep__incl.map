@@ -1,0 +1,21 @@
+<map id="/opt/VSPA_Tools_vbeta_14_00_781/include/vspa/intrinsics.h" name="/opt/VSPA_Tools_vbeta_14_00_781/include/vspa/intrinsics.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="65,5,251,60"/>
+<area shape="rect" id="Node000002" href="$iohw_8h.html" title="Hardware I/O definitions." alt="" coords="137,108,296,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,71,204,107,199,109,178,73"/>
+<area shape="rect" id="Node000008" href="$vcpu_8h.html" title="Vector central processing unit definitions." alt="" coords="20,211,179,265"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="141,73,127,109,114,163,105,211,100,210,108,162,122,107,136,71"/>
+<area shape="rect" id="Node000003" href="$ccnt_8h.html" title="Cycle counting and profiling interface." alt="" coords="188,313,347,368"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="229,175,238,210,263,313,258,314,233,211,224,176"/>
+<area shape="rect" id="Node000004" href="$dmac_8h.html" title="Direct memory access controller interface." alt="" coords="337,211,496,265"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="282,166,366,208,363,213,280,171"/>
+<area shape="rect" id="Node000007" href="$host_8h.html" title="Host interface definitions." alt="" coords="5,313,164,368"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="219,177,211,222,203,245,192,267,168,294,139,315,136,311,164,290,188,264,199,243,206,221,213,176"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="177,174,132,213,128,209,174,170"/>
+<area shape="rect" id="Node000005" href="$axiq-ls_8h.html" title="Low&#45;speed AXIQ driver." alt="" coords="371,313,529,368"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="432,277,444,312,439,314,427,279"/>
+<area shape="rect" id="Node000006" href="$axiq-la1224_8h.html" title="LA1224 AXI I/Q FIFO driver interface." alt="" coords="367,416,533,471"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="444,382,445,416,439,416,439,382"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="456,403,455,368,461,368,461,402"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="156,270,225,311,222,315,154,275"/>
+<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="96,279,91,314,86,313,91,279"/>
+</map>

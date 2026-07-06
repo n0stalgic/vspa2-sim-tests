@@ -1,0 +1,18 @@
+<map id="/home/chris/code/rf/vspa&#45;sim&#45;tests/vspa&#45;sdk/inc/iohw.h" name="/home/chris/code/rf/vspa&#45;sim&#45;tests/vspa&#45;sdk/inc/iohw.h">
+<area shape="rect" id="Node000001" title="Hardware I/O definitions." alt="" coords="199,5,357,60"/>
+<area shape="rect" id="Node000002" href="$ccnt_8h.html" title="Cycle counting and profiling interface." alt="" coords="192,211,351,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,73,247,109,244,135,247,162,262,210,257,211,242,163,239,135,242,107,255,71"/>
+<area shape="rect" id="Node000003" href="$dmac_8h.html" title="Direct memory access controller interface." alt="" coords="16,108,175,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,69,145,110,142,105,217,64"/>
+<area shape="rect" id="Node000006" href="$host_8h.html" title="Host interface definitions." alt="" coords="375,211,533,265"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="371,61,403,80,429,106,444,131,452,159,458,210,452,211,447,160,439,134,425,110,399,85,368,66"/>
+<area shape="rect" id="Node000007" href="$vcpu_8h.html" title="Vector central processing unit definitions." alt="" coords="257,108,416,163"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="303,71,324,107,319,109,298,73"/>
+<area shape="rect" id="Node000004" href="$axiq-ls_8h.html" title="Low&#45;speed AXIQ driver." alt="" coords="9,211,168,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,177,93,211,88,210,90,176"/>
+<area shape="rect" id="Node000005" href="$axiq-la1224_8h.html" title="LA1224 AXI I/Q FIFO driver interface." alt="" coords="5,313,172,368"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="83,279,83,313,78,313,77,279"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="95,300,94,266,99,266,100,300"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="314,176,291,212,286,209,310,173"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="380,170,425,209,422,213,376,174"/>
+</map>

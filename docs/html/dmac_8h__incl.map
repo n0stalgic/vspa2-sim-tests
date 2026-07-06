@@ -1,0 +1,14 @@
+<map id="/home/chris/code/rf/vspa&#45;sim&#45;tests/vspa&#45;sdk/inc/dmac.h" name="/home/chris/code/rf/vspa&#45;sim&#45;tests/vspa&#45;sdk/inc/dmac.h">
+<area shape="rect" id="Node000001" title="Direct memory access controller interface." alt="" coords="131,5,289,60"/>
+<area shape="rect" id="Node000002" href="$iohw_8h.html" title="Hardware I/O definitions." alt="" coords="109,108,173,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,62,161,99,157,95,187,58"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="177,181,243,207"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="213,60,213,168,207,168,207,60"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="248,108,319,133"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="234,58,266,96,262,99,230,62"/>
+<area shape="rect" id="Node000003" href="$intrinsics_8h.html" title=" " alt="" coords="25,181,153,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,135,107,172,103,169,130,132"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="154,132,191,170,187,173,150,136"/>
+<area shape="rect" id="Node000004" href="$intrinsic__vspa2_8h.html" title=" " alt="" coords="5,255,172,280"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="91,207,91,241,86,241,86,207"/>
+</map>
