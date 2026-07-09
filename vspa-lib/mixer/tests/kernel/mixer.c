@@ -8,7 +8,6 @@ unsigned int mixer_vspa(cfixed16_t *mix_out, cfixed16_t *mix_in,
 {
 
 	unsigned int nco_phase = 0;	
-	unsigned int offset_accumulator = 0;
 
 	__clr_VRA();
 	__set_prec(half_fixed, half_fixed, half_fixed, single, half_fixed);
